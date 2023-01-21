@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Learning the basics of github and version control
 <!--
 **derektwest/derektwest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
